@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Mag_2","characterIndex":0,"characterName":"$Magica02","classId":1,"equips":[5,0,2,3,4],"faceIndex":1,"faceName":"Mag","traits":[],"initialLevel":1,"maxLevel":99,"name":"Homura","nickname":"Akemi","note":"Face Breath Effect","profile":"She seems to be a magical girl, but there are a lot \nof mysteries surrounding the way she acts."},
+{"id":2,"battlerName":"Mag_3","characterIndex":0,"characterName":"$Magica03","classId":3,"equips":[1,1,2,3,0],"faceIndex":2,"faceName":"Mag","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sayaka","nickname":"Miki","note":"Face Breath Effect","profile":"Madoka’s classmate and good friend. Energetic and \nlively. "},
+{"id":3,"battlerName":"Mag_4","characterIndex":0,"characterName":"$Magica04","classId":2,"equips":[5,0,2,3,4],"faceIndex":3,"faceName":"Mag","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mami","nickname":"Tomoe","note":"Face Breath Effect","profile":"A ninth-grader who attends Mitakihara Middle School.\nA kind senior to Madoka, she’s the helpful."},
+{"id":4,"battlerName":"Mag_5","characterIndex":0,"characterName":"$Magica05","classId":4,"equips":[6,1,2,3,0],"faceIndex":4,"faceName":"Mag","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kyoko","nickname":"Sakura","note":"Face Breath Effect","profile":"A magical girl who simply has supernatural powers and \nabandoned the premise of justice and benevolence. "},
+{"id":5,"battlerName":"Mag_1","characterIndex":0,"characterName":"$Magica01","classId":1,"equips":[4,1,2,3,0],"faceIndex":0,"faceName":"Mag","traits":[],"initialLevel":1,"maxLevel":99,"name":"Madoka","nickname":"Kaname","note":"","profile":"A good-natured and ordinary eighth-grader. \nShe is the health coordinator in her class. "}
+]

@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Main","order":1,"parentId":0,"scrollX":825.3333333333334,"scrollY":496},
+{"id":2,"expanded":false,"name":"Weather EX","order":3,"parentId":1,"scrollX":836,"scrollY":956},
+{"id":3,"expanded":true,"name":"Desert","order":4,"parentId":2,"scrollX":651.3333333333334,"scrollY":357.3333333333333},
+{"id":4,"expanded":false,"name":"Variable HUD","order":5,"parentId":1,"scrollX":651.3333333333334,"scrollY":368},
+{"id":5,"expanded":false,"name":"Visual Timer","order":6,"parentId":1,"scrollX":651.3333333333334,"scrollY":368},
+{"id":6,"expanded":false,"name":"Event Sensor","order":7,"parentId":1,"scrollX":825.3333333333334,"scrollY":485.3333333333333},
+{"id":7,"expanded":false,"name":"Character Motion","order":9,"parentId":1,"scrollX":651.3333333333334,"scrollY":368},
+{"id":8,"expanded":false,"name":"General","order":2,"parentId":1,"scrollX":825.3333333333334,"scrollY":485.3333333333333},
+{"id":9,"expanded":false,"name":"Battle Field","order":8,"parentId":1,"scrollX":836,"scrollY":704},
+{"id":10,"expanded":false,"name":"Character Shatter","order":10,"parentId":1,"scrollX":651.3333333333334,"scrollY":368},
+{"id":11,"expanded":false,"name":"Character Particles","order":11,"parentId":1,"scrollX":651.3333333333334,"scrollY":368}
+]

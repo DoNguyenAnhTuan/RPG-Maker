@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Phòng khám","order":1,"parentId":0,"scrollX":650.4,"scrollY":366},
+null,
+{"id":3,"expanded":false,"name":"Nhà vệ sinh tầng 2","order":2,"parentId":0,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
+{"id":4,"expanded":false,"name":"Nhà kho ","order":11,"parentId":0,"scrollX":650.4,"scrollY":366},
+{"id":5,"expanded":false,"name":"Phòng xét nghiệm","order":9,"parentId":0,"scrollX":650.4,"scrollY":366},
+{"id":6,"expanded":false,"name":"Phòng hồi sức","order":3,"parentId":0,"scrollX":650.4,"scrollY":366},
+{"id":7,"expanded":false,"name":"Hành lang tầng 2","order":4,"parentId":0,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
+{"id":8,"expanded":true,"name":"Nhà vệ sinh tầng trệt","order":5,"parentId":0,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
+{"id":9,"expanded":true,"name":"Phòng chụp X-quang","order":6,"parentId":0,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
+{"id":10,"expanded":true,"name":"Hành lang tầng trệt","order":7,"parentId":0,"scrollX":1182.5454545454545,"scrollY":665.4545454545455},
+{"id":11,"expanded":true,"name":"Cầu thang","order":8,"parentId":0,"scrollX":650.4,"scrollY":366},
+{"id":12,"expanded":false,"name":"Phòng bí mật","order":10,"parentId":0,"scrollX":640.8,"scrollY":510}
+]

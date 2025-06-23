@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"Mo Cua","effects":[],"hitType":0,"iconIndex":163,"itypeId":1,"name":"Chia Khoa Vang","note":"","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+{"id":2,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"Mo Cua","effects":[],"hitType":0,"iconIndex":160,"itypeId":1,"name":"Chia Khoa Bac","note":"","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+{"id":3,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"Mo Cua","effects":[],"hitType":0,"iconIndex":165,"itypeId":1,"name":"Chia Khoa Bach Kim","note":"","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+{"id":4,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"b.mhp / 2","type":0,"variance":20},"description":"Mo Cua","effects":[],"hitType":0,"iconIndex":162,"itypeId":1,"name":"Chia Khoa Kim Cuong","note":"","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+{"id":5,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"b.mhp / 2","type":0,"variance":20},"description":"Thuoc","effects":[],"hitType":0,"iconIndex":178,"itypeId":1,"name":"Thuoc Kich Duc","note":"","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+{"id":6,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0}
+]
